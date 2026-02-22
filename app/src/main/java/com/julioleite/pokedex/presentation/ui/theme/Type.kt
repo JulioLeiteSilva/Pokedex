@@ -1,4 +1,4 @@
-package com.julioleite.pokedex.ui.theme
+package com.julioleite.pokedex.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
